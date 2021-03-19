@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://www.editorpress.it/en/wp-content/uploads/sites/12/2018/10/web.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+body a{
+    text-decoration: none;
+    color: black;
+    font-family: Merriweather;
+}
+html{
+    scroll-behavior: smooth;
+}
+body h1{
+    text-align: center;
+}
+#Web{
+
+}
+#Code_dot_org{
+
+}
+#Thunkable{
+
+}
